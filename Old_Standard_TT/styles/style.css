@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Helvetica&display=swap');
+
+
+@import url('reset.css');
+@import url('content.css');
+
+
+:root {
+  --color-deeppink: #fe42aa;
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #907c7e;
+  --color-gray-300: #0d0d0d;
+  --color-gray-400: rgba(253, 253, 253, 0.9);
+  --color-pink: #e6b0b5;
+  --color-rosybrown-100: #ae9090;
+  --color-rosybrown-200: #ae868a;
+  --color-white: #fff;
+
+  --gap-12: 12px;
+  --gap-18: 18px;
+  --gap-24: 24px;
+  --gap-60: 60px;
+
+  --br-16: 16px;
+  --br-28: 28px;
+
+  --font-helvetica: Helvetica;
+  --font-old-standard-tt: 'Old Standard TT';
+
+  --fs-14: 14px;
+  --fs-24: 24px;
+  --fs-25: 25px;
+  --fs-26: 26px;
+  --fs-28: 28px;
+  --fs-60: 60px;
+  --fs-24_43: 24.43px;
+  --fs-36_37: 36.37px;
+  --fs-60_29: 60.29px;
+  --fs-92_99: 92.99px;
+
+  --border-1: 4px solid var(--color-deeppink);
+  --border-2: 3.5px solid var(--color-rosybrown-100);
+  --border-3: 1.3px solid var(--color-gray-200);
+  --border-11: 2px solid var(--color-gray-200);
+
+  --lh-24: 24px;
+  --lh-20_8: 20.8px;
+  --lh-56_29: 56.29px;
+}
